@@ -1,5 +1,5 @@
 {
-    "name": "token-session-service",
+    "name": "ng-token-session-service",
     "version": "0.2",
     "authors": ["Alexander OG <alex.oseigyau@gmail.com>"],
     "description": "AngularJS driven token based session management. Provides access to URL endpoint along with callbacks to check remote API for session confirmation. Seamlessly adds api key into Angular http requests.",
@@ -7,7 +7,7 @@
         "type": "git",
         "url": "git://github.com/ako977/tokenSessionService/.git"
     },
-    "main": "/lib/token-session-service/ako977.token-session-service.js",    
+    "main": "lib/token-session-service/ako977.token-session-service.js",    
     "keywords": [
         "angular",
         "angularjs",
